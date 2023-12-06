@@ -7,11 +7,17 @@
 
 **Project objective:** 
 
+* Analyze customer behaviour and identify buying patterns with a comprehensive customer performance report.
+  
+* Compare actual sales performance against set targets for each market, highlighting strengths and weaknesses.
+  
+
+## Purpose:
+
 * Empower businesses to monitor and evaluate their sales activities and performance effectively.
   
 * Identify key sales patterns and track important key performance indicators (KPIs).
-  
-* Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
 
