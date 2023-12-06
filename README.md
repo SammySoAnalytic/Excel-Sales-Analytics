@@ -1,5 +1,6 @@
 # AtliQ-Hardwares
 
+**This project aims to develop comprehensive Sales and Finance reports for AtliQ-Hardwares, empowering data-driven decision-making and strategic planning.**
 ## Sales Report :
 
 
