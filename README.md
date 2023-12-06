@@ -36,7 +36,7 @@
 - [x]	Proficient in ETL (Extract, Transform, Load) methodology.
 - [x]	Skilled in generating a date table using Power Query.
 - [x]	Able to derive fiscal months and quarters accurately.
-- [x]Experienced in establishing data model relationships with Power Pivot.
+- [x]   Experienced in establishing data model relationships with Power Pivot.
 - [x]	Proficient in incorporating supplementary data into existing data models.
 - [x]	Skilled in utilizing DAX to create calculated columns.
 
