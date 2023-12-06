@@ -1,47 +1,47 @@
 # AtliQ-Hardwares
 
 **This project aims to develop comprehensive Sales and Finance reports for AtliQ-Hardwares, empowering data-driven decision-making and strategic planning.**
+
+
 ## Sales Report :
-
-
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/naganikhil999/AtliQ-Hardwares/blob/main/Customer%20Performance%20Report.pdf)_ 
+* Empower businesses to monitor and evaluate their sales activities and performance effectively.
+  
+* Identify key sales patterns and track important key performance indicators (KPIs).
+  
+* Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/naganikhil999/AtliQ-Hardwares/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
-
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
-
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
 ## Finance Report :
 
-- **Project objective:** 
+- ** Objectives:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/naganikhil999/AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/naganikhil999/AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Track profitability over time and identify seasonal trends with detailed Profit and Loss (P&L) reports by fiscal year and month. [Link to P&L Statement by Fiscal Year ON GitHub github.com] [Link to P&L Statement by Months ON GitHub github.com]
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/naganikhil999/AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Evaluate financial performance in different markets and allocate resources effectively with Profit and Loss (P&L) reports by market. [Link to P&L Statement by Markets ON GitHub github.com]
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Purpose :**
+- Evaluate financial performance comprehensively and identify areas for improvement.
+  
+- Support data-driven decision-making and resource allocation based on accurate financial insights.
+  
+- Facilitate clear communication with stakeholders and investors through transparent financial reporting.
 
 
 ## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+
+## Technical Skills
+- [x]	Proficient in ETL (Extract, Transform, Load) methodology.
+- [x]	Skilled in generating a date table using Power Query.
+- [x]	Able to derive fiscal months and quarters accurately.
+- [x]Experienced in establishing data model relationships with Power Pivot.
+- [x]	Proficient in incorporating supplementary data into existing data models.
+- [x]	Skilled in utilizing DAX to create calculated columns.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Possesses a refined understanding of Sales & Finance Reports.
+- [x]	Designs user-centric reports with empathy and clarity in mind.
+- [x]	Optimizes report generation through meticulous fine-tuning.
+- [x]	Develops a systematic approach to devising an effective report-building plan.
