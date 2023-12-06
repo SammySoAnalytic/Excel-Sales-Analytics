@@ -3,8 +3,9 @@
 **This project aims to develop comprehensive Sales and Finance reports for AtliQ-Hardwares, empowering data-driven decision-making and strategic planning.**
 
 
-## Sales Report :
-- **Project objective:** 
+## Sales Report
+
+**Project objective:** 
 
 * Empower businesses to monitor and evaluate their sales activities and performance effectively.
   
@@ -16,13 +17,13 @@
 
 ## Finance Report :
 
-- ** Objectives:** 
+**Objectives:** 
 
-    **1.** Track profitability over time and identify seasonal trends with detailed Profit and Loss (P&L) reports by fiscal year and month. [Link to P&L Statement by Fiscal Year ON GitHub github.com] [Link to P&L Statement by Months ON GitHub github.com]
+* Track profitability over time and identify seasonal trends with detailed Profit and Loss (P&L) reports by fiscal year and month. [Link to P&L Statement by Fiscal Year ON GitHub github.com] [Link to P&L Statement by Months ON GitHub github.com]
 
-   **2.** Evaluate financial performance in different markets and allocate resources effectively with Profit and Loss (P&L) reports by market. [Link to P&L Statement by Markets ON GitHub github.com]
+* Evaluate financial performance in different markets and allocate resources effectively with Profit and Loss (P&L) reports by market. [Link to P&L Statement by Markets ON GitHub github.com]
 
-- **Purpose :**
+**Purpose :**
 - Evaluate financial performance comprehensively and identify areas for improvement.
   
 - Support data-driven decision-making and resource allocation based on accurate financial insights.
