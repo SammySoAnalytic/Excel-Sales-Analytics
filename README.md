@@ -7,9 +7,9 @@
 
 **Project objective:** 
 
-* Analyze customer behaviour and identify buying patterns with a comprehensive customer performance report.
+* Analyze customer behaviour and identify buying patterns with a comprehensive _[customer performance report](https://github.com/SammySoAnalytic/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
   
-* Compare actual sales performance against set targets for each market, highlighting strengths and weaknesses.
+* Compare actual sales performance against set targets for each market, highlighting strengths and weaknesses. _[market performance and sales targets](https://github.com/SammySoAnalytic/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
   
 
 ## Purpose:
@@ -25,9 +25,10 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 
 **Objectives:** 
 
-* Track profitability over time and identify seasonal trends with detailed Profit and Loss (P&L) reports by fiscal year and month. [Link to P&L Statement by Fiscal Year ON GitHub github.com] [Link to P&L Statement by Months ON GitHub github.com]
+* Track profitability over time and identify seasonal trends with detailed Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/SammySoAnalytic/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/SammySoAnalytic/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-* Evaluate financial performance in different markets and allocate resources effectively with Profit and Loss (P&L) reports by market. [Link to P&L Statement by Markets ON GitHub github.com]
+* Evaluate financial performance in different markets and allocate resources effectively with Profit and Loss (P&L) reports by _[Markets](https://github.com/SammySoAnalytic/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+
 
 **Purpose :**
 - Evaluate financial performance comprehensively and identify areas for improvement.
